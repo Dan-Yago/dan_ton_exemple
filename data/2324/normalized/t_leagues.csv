@@ -1,0 +1,18 @@
+league_id,league,division,no_clubs,country,continent
+1,Premier League,1,20,England,Europe
+2,EFL,2,24,England,Europe
+3,La Liga,1,20,Spain,Europe
+4,Segunda Division,2,22,Spain,Europe
+5,Serie A,1,20,Italy,Europe
+6,Serie B,2,20,Italy,Europe
+7,Bundesliga,1,18,Germany,Europe
+8,2. Bundesliga,2,18,Germany,Europe
+9,Ligue 1,1,18,France,Europe
+10,Ligue 2,2,20,France,Europe
+11,Eredivisie,1,18,Netherlands,Europe
+12,Primeira Liga,1,18,Portugal,Europe
+13,Primera Division,1,28,Argentina,South America
+14,Brazilian League,1,20,Brazil,South America
+15,MLS,1,29,USA,North America
+16,Pro League,1,16,Belgium,Europe
+17,Liga MX,1,18,Mexico,South America

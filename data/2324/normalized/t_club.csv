@@ -1,0 +1,348 @@
+club_id,club,league_id
+1,Manchester City,1
+2,Arsenal,1
+3,Liverpool,1
+4,Aston Villa,1
+5,Tottenham,1
+6,Chelsea,1
+7,Newcastle Utd,1
+8,Manchester Utd,1
+9,West Ham,1
+10,Crystal Palace,1
+11,Brighton,1
+12,Bournemouth,1
+13,Fulham,1
+14,Wolves,1
+15,Everton,1
+16,Brentford,1
+17,Nott'ham Forest,1
+18,Luton Town,1
+19,Burnley,1
+20,Sheffield Utd,1
+21,Hull City,2
+22,QPR,2
+23,Cardiff City,2
+24,Sunderland,2
+25,Leicester City,2
+26,Southampton,2
+27,Norwich City,2
+28,Plymouth Argyle,2
+29,Millwall,2
+30,West Brom,2
+31,Blackburn,2
+32,Coventry City,2
+33,Swansea City,2
+34,Middlesbrough,2
+35,Sheffield Weds,2
+36,Preston,2
+37,Watford,2
+38,Huddersfield,2
+39,Birmingham City,2
+40,Ipswich Town,2
+41,Bristol City,2
+42,Rotherham Utd,2
+43,Stoke City,2
+44,Leeds United,2
+45,Real Madrid,3
+46,Barcelona,3
+47,Girona,3
+48,Atlético Madrid,3
+49,Athletic Club,3
+50,Real Sociedad,3
+51,Betis,3
+52,Villarreal,3
+53,Valencia,3
+54,Alavés,3
+55,Osasuna,3
+56,Getafe,3
+57,Celta Vigo,3
+58,Sevilla,3
+59,Mallorca,3
+60,Las Palmas,3
+61,Rayo Vallecano,3
+62,Cádiz,3
+63,Almería,3
+64,Granada,3
+65,Oviedo,4
+66,Huesca,4
+67,Villarreal B,4
+68,Elche,4
+69,Valladolid,4
+70,FC Andorra,4
+71,Zaragoza,4
+72,Levante,4
+73,Eibar,4
+74,Albacete,4
+75,Tenerife,4
+76,Burgos,4
+77,CD Mirandés,4
+78,Racing Sant,4
+79,Sporting Gijón,4
+80,Cartagena,4
+81,Leganés,4
+82,Racing Ferrol,4
+83,Eldense,4
+84,Amorebieta,4
+85,Espanyol,4
+86,Alcorcón,4
+87,Inter,5
+88,Milan,5
+89,Juventus,5
+90,Atalanta,5
+91,Bologna,5
+92,Roma,5
+93,Lazio,5
+94,Fiorentina,5
+95,Torino,5
+96,Napoli,5
+97,Genoa,5
+98,Monza,5
+99,Hellas Verona,5
+100,Lecce,5
+101,Udinese,5
+102,Cagliari,5
+103,Empoli,5
+104,Frosinone,5
+105,Sassuolo,5
+106,Salernitana,5
+107,Bari,6
+108,Modena,6
+109,Parma,6
+110,Como,6
+111,Sampdoria,6
+112,Cittadella,6
+113,Spezia,6
+114,Cosenza,6
+115,Reggiana,6
+116,Pisa,6
+117,Calcio Lecco 1912,6
+118,Ternana,6
+119,Südtirol,6
+120,FeralpiSalò,6
+121,Cremonese,6
+122,Palermo,6
+123,Brescia,6
+124,Catanzaro,6
+125,Venezia,6
+126,Ascoli,6
+127,Leverkusen,7
+128,Stuttgart,7
+129,Bayern Munich,7
+130,RB Leipzig,7
+131,Dortmund,7
+132,Eint Frankfurt,7
+133,Hoffenheim,7
+134,Heidenheim,7
+135,Werder Bremen,7
+136,Freiburg,7
+137,Augsburg,7
+138,Wolfsburg,7
+139,Mainz 05,7
+140,Gladbach,7
+141,Union Berlin,7
+142,Bochum,7
+143,Köln,7
+144,Darmstadt 98,7
+145,Kaiserslautern,8
+146,Paderborn 07,8
+147,St. Pauli,8
+148,Magdeburg,8
+149,Nürnberg,8
+150,Wehen,8
+151,Holstein Kiel,8
+152,Hansa Rostock,8
+153,Karlsruher,8
+154,Braunschweig,8
+155,Hertha BSC,8
+156,Greuther Fürth,8
+157,Hannover 96,8
+158,Hamburger SV,8
+159,Düsseldorf,8
+160,Elversberg,8
+161,Schalke 04,8
+162,Osnabrück,8
+163,Paris S-G,9
+164,Monaco,9
+165,Brest,9
+166,Lille,9
+167,Nice,9
+168,Lyon,9
+169,Lens,9
+170,Marseille,9
+171,Reims,9
+172,Rennes,9
+173,Toulouse,9
+174,Montpellier,9
+175,Strasbourg,9
+176,Nantes,9
+177,Le Havre,9
+178,Metz,9
+179,Lorient,9
+180,Clermont Foot,9
+181,Guingamp,10
+182,Rodez Aveyron,10
+183,US Concarneau,10
+184,Amiens,10
+185,Angers,10
+186,Troyes,10
+187,Grenoble,10
+188,Dunkerque,10
+189,Paris FC,10
+190,Pau FC,10
+191,Auxerre,10
+192,Annecy,10
+193,Saint-Étienne,10
+194,Ajaccio,10
+195,Quevilly-Rouen,10
+196,Bordeaux,10
+197,Caen,10
+198,Valenciennes,10
+199,Stade Laval,10
+200,Bastia,10
+201,PSV Eindhoven,11
+202,Feyenoord,11
+203,Twente,11
+204,AZ Alkmaar,11
+205,Ajax,11
+206,NEC Nijmegen,11
+207,Utrecht,11
+208,Sparta R'dam,11
+209,Go Ahead Eag,11
+210,Fortuna Sittard,11
+211,Heerenveen,11
+212,Zwolle,11
+213,Almere City,11
+214,Heracles Almelo,11
+215,RKC Waalwijk,11
+216,Excelsior,11
+217,Volendam,11
+218,Vitesse,11
+219,Sporting CP,12
+220,Benfica,12
+221,Porto,12
+222,Braga,12
+223,Vitória,12
+224,Moreirense,12
+225,Arouca,12
+226,Famalicão,12
+227,Casa Pia,12
+228,Farense,12
+229,Rio Ave,12
+230,Gil Vicente FC,12
+231,Estoril,12
+232,Estrela,12
+233,Boavista,12
+234,Portimonense,12
+235,Vizela,12
+236,Chaves,12
+237,River Plate,13
+238,Talleres,13
+239,San Lorenzo,13
+240,Lanús,13
+241,Estudiantes,13
+242,Defensa y Just,13
+243,Boca Juniors,13
+244,Rosario Central,13
+245,Godoy Cruz,13
+246,Arg Juniors,13
+247,Atlé Tucumán,13
+248,Racing Club,13
+249,Belgrano,13
+250,Newell's OB,13
+251,Barracas Central,13
+252,Tigre,13
+253,Platense,13
+254,Instituto,13
+255,Sarmiento,13
+256,Unión,13
+257,Banfield,13
+258,Gimnasia–LP,13
+259,Cen. Córdoba–SdE,13
+260,Independiente,13
+261,Vélez Sarsfield,13
+262,Huracán,13
+263,Colón,13
+264,Arsenal,13
+265,Palmeiras,14
+266,Grêmio,14
+267,Atlético Mineiro,14
+268,Flamengo,14
+269,Botafogo (RJ),14
+270,Red Bull Bragantino,14
+271,Fluminense,14
+272,Ath Paranaense,14
+273,Internacional,14
+274,Fortaleza,14
+275,São Paulo,14
+276,Cuiabá,14
+277,Corinthians,14
+278,Cruzeiro,14
+279,Vasco da Gama,14
+280,Bahia,14
+281,Santos,14
+282,Goiás,14
+283,Coritiba,14
+284,América (MG),14
+285,LA Galaxy,15
+286,FC Cincinnati,15
+287,CF Montréal,15
+288,LAFC,15
+289,Orlando City,15
+290,Seattle,15
+291,Rapids,15
+292,Dynamo FC,15
+293,Austin,15
+294,Toronto FC,15
+295,Charlotte,15
+296,Crew,15
+297,Atlanta Utd,15
+298,St. Louis,15
+299,Sporting KC,15
+300,FC Dallas,15
+301,Philadelphia,15
+302,Vancouver W'caps,15
+303,D.C. United,15
+304,Fire,15
+305,Nashville,15
+306,NYCFC,15
+307,Portland Timbers,15
+308,RSL,15
+309,NE Revolution,15
+310,NY Red Bulls,15
+311,Inter Miami,15
+312,SJ Earthquakes,15
+313,Minnesota Utd,15
+314,Club Brugge,16
+315,Union SG,16
+316,Anderlecht,16
+317,Cercle Brugge,16
+318,Genk,16
+319,Antwerp,16
+320,Gent,16
+321,Mechelen,16
+322,Sint-Truiden,16
+323,OH Leuven,16
+324,Westerlo,16
+325,Standard Liège,16
+326,Charleroi,16
+327,Kortrijk,16
+328,RWD Molenbeek,16
+329,Eupen,16
+330,Tijuana,17
+331,Atlas,17
+332,Toluca,17
+333,León,17
+334,UNAM,17
+335,Necaxa,17
+336,FC Juárez,17
+337,Santos,17
+338,Mazatlán,17
+339,Guadalajara,17
+340,Cruz Azul,17
+341,Querétaro,17
+342,Puebla,17
+343,Atlético,17
+344,América,17
+345,Pachuca,17
+346,Monterrey,17
+347,UANL,17

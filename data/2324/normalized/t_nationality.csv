@@ -1,0 +1,143 @@
+nat_id,nationality,Continent
+1,ALB,Europe
+2,ALG,Africa
+3,AND,Europe
+4,ANG,Africa
+5,ARG,South America
+6,ARM,Europe
+7,ATG,North America
+8,AUS,Oceania
+9,AUT,Europe
+10,BDI,Africa
+11,BEL,Europe
+12,BEN,Africa
+13,BER,North America
+14,BFA,Africa
+15,BIH,Europe
+16,BLR,Europe
+17,BOE,Europe
+18,BOL,South America
+19,BRA,South America
+20,BUL,Europe
+21,CAN,North America
+22,CGO,Africa
+23,CHI,South America
+24,CHN,Asia
+25,CIV,Africa
+26,CMR,Africa
+27,COD,Africa
+28,COL,South America
+29,COM,Africa
+30,CPV,Africa
+31,CRC,North America
+32,CRO,Europe
+33,CTA,Africa
+34,CUB,North America
+35,CUW,North America
+36,CYP,Europe
+37,CZE,Europe
+38,DEN,Europe
+39,DOM,North America
+40,ECU,South America
+41,EGY,Africa
+42,ENG,Europe
+43,EQG,Africa
+44,ESP,Europe
+45,EST,Europe
+46,FIN,Europe
+47,FRA,Europe
+48,GAB,Africa
+49,GAM,Africa
+50,GEO,Europe
+51,GER,Europe
+52,GHA,Africa
+53,GLP,North America
+54,GNB,Africa
+55,GRE,Europe
+56,GRN,North America
+57,GUA,North America
+58,GUF,South America
+59,GUI,Africa
+60,GUY,South America
+61,HAI,North America
+62,HON,North America
+63,HUN,Europe
+64,IDN,Asia
+65,IRL,Europe
+66,IRN,Asia
+67,IRQ,Asia
+68,ISL,Europe
+69,ITA,Europe
+70,JAM,North America
+71,JOR,Asia
+72,JPN,Asia
+73,KEN,Africa
+74,KOR,Asia
+75,KVX,Europe
+76,LBR,Africa
+77,LBY,Africa
+78,LCA,North America
+79,LIE,Europe
+80,LTU,Europe
+81,LUX,Europe
+82,LVA,Europe
+83,MAD,Africa
+84,MAR,Africa
+85,MDA,Europe
+86,MEX,North America
+87,MKD,Europe
+88,MLI,Africa
+89,MLT,Europe
+90,MNE,Europe
+91,MOZ,Africa
+92,MTN,Africa
+93,MTQ,North America
+94,NCL,Oceania
+95,NED,Europe
+96,NGA,Africa
+97,NIR,Europe
+98,NOR,Europe
+99,NZL,Oceania
+100,PAN,North America
+101,PAR,South America
+102,PER,South America
+103,PHI,Asia
+104,PLE,Asia
+105,POL,Europe
+106,POR,Europe
+107,PUR,North America
+108,RDC,Africa
+109,ROU,Europe
+110,RSA,Africa
+111,RUS,Europe/Asia (Transcontinental)
+112,RWA,Africa
+113,SCO,Europe
+114,SEN,Africa
+115,SKN,North America
+116,SLE,Africa
+117,SLV,North America
+118,SOM,Africa
+119,SPA,Europe
+120,SRB,Europe
+121,SSD,Africa
+122,STP,Africa
+123,SUI,Europe
+124,SUR,South America
+125,SVK,Europe
+126,SVN,Europe
+127,SWE,Europe
+128,SYR,Asia
+129,THA,Asia
+130,TOG,Africa
+131,TRI,North America
+132,TUN,Africa
+133,TUR,Asia
+134,UGA,Asia
+135,UKR,Europe
+136,URU,South America
+137,USA,North America
+138,UZB,Asia
+139,VEN,South America
+140,WAL,Europe
+141,ZAM,Africa
+142,ZIM,Africa
