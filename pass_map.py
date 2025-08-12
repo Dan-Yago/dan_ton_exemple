@@ -10,34 +10,23 @@ def is_prog(y,y2):
         return True
     return False
 def is_deep(x, y):
-    """
-    Проверяет, находится ли точка (x,y) внутри фигуры с жестко заданными параметрами.
-    Фигура определена точками (21,83), (79,83), (50,78) и квадратичной кривой между ними.
-    
-    Параметры:
-    x, y - координаты проверяемой точки
-    
-    Возвращает:
-    True, если точка внутри фигуры, False в противном случае
-    """
-    # Жестко заданные точки (как в исходном коде)
+
     points = np.array([[21, 83], [79, 83], [50, 78]])
-    points = points[np.argsort(points[:, 0])]  # Сортировка по X
-    
-    # Коэффициенты квадратичной кривой (ax² + bx + c)
+    points = points[np.argsort(points[:, 0])]  # сортировка по х
+    # Коэффициенты квадратичной кривой (ax^2 + bx + c)
     coeffs = np.polyfit(points[:, 0], points[:, 1], 2)
     
-    # 1. Проверка границ
+    # первая проверка
     if x < 21 or x > 79 or y > 100:
         return False
     
-    # 2. Проверка вертикальных областей
+    # штрафная площадь
     if x <= 21:
-        return y >= 83  # Левая вертикальная область
+        return y >= 83  
     elif x >= 79:
-        return y >= 83  # Правая вертикальная область
+        return y >= 83 
     
-    # 3. Проверка под кривой (дугой)
+    # дуга
     y_curve = coeffs[0]*x**2 + coeffs[1]*x + coeffs[2]
     return y >= y_curve
 def has_cross(qualifiers):
@@ -122,9 +111,9 @@ for names in players:
         alpha=ga,
         )
     plt.savefig(
-        'strelki.png',          # имя файла (позиционный аргумент)
-        dpi=300,           # именованный аргумент
-        bbox_inches="tight" # именованный аргумент
+        'strelki.png',          
+        dpi=300,           
+        bbox_inches="tight" 
     )
     plt.show()
 
@@ -156,9 +145,9 @@ for names in players:
         bw_method=0.8
     )
     plt.savefig(
-        'hm.png',          # имя файла (позиционный аргумент)
-        dpi=300,           # именованный аргумент
-        bbox_inches="tight" # именованный аргумент
+        'hm.png',          
+        dpi=300,          
+        bbox_inches="tight" 
     )
     plt.show()
 
