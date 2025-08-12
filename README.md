@@ -69,6 +69,10 @@ xg_form_mu.py - форма Ман Юнайтед в прошедшем сезо�
 
 <img width="500" height="250" alt="Manchester United_xg_form_mu py" src="https://github.com/user-attachments/assets/2271a263-e337-4e9e-ba9c-7848636dd340" />
 
+и бонус, инфографика, где по сути на графике задействуются 4 параметра (x,y,цвет, размер)
+
+<img width="500" height="250" alt="Manchester United_xg_form_mu py" src="https://github.com/user-attachments/assets/32615071-23b3-4629-9274-f11877ccf697" />
+
 
 
 
